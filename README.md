@@ -22,7 +22,7 @@ This project is an automated API test plan created using **Apache JMeter**. It t
 ## How to Run This Test
 1.  **Clone the repository:**
     ```bash
-    git clone [Your-GitHub-Link-Here]
+    git clone https://github.com/AbdulMateen015/API-Testing-JMeter-Assignment.git
     ```
 2.  **Open JMeter:**
     * Launch Apache JMeter.
